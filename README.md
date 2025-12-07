@@ -102,7 +102,7 @@ It helps hospital management **optimize resources & improve patient care** throu
 **Chinmaya Kumar Khora**  
 Power BI | SQL | Python | Analytics  
 📧 Chinmayakumar119@gmail.com  
-🔗 LinkedIn: _Add your link here_
+🔗 LinkedIn(https://www.linkedin.com/in/imchinmayakumar/)
 
 ⭐ If you found this helpful, please support by starring this repo!
 
